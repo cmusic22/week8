@@ -1,0 +1,22 @@
+body {
+	background-color: #1a1a1d;
+}
+h1 {
+	color: #c3073f;
+}
+.card {
+	border: 1px solid  #1a1a1d;
+	border-radius: .25rem;
+}
+.card-header {
+	background-color: #1a1a1d;
+	color: #c3073f;
+}
+.form-control {
+	border: 1px solid #c3073f;
+}
+
+#records {
+    max-height: 250px;
+    overflow: scroll;
+}
